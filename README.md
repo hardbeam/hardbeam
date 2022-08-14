@@ -1,0 +1,2 @@
+# hardbeam
+Hardbeam monorepo
